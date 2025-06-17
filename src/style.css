@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .padding{
+        @apply xl:px-20 lg:px-16 md:px-10 px-5 py-5
+    }
+
+    .btn {
+        @apply px-4 py-2 text-white font-semibold transition ease-in-out delay-150 bg-own-primary hover:translate-y-1 hover:scale-110 hover:bg-black duration-300 rounded-lg
+    }
+
+    .outline-btn {
+        @apply px-4 py-2 text-own-primary font-semibold transition ease-in-out delay-150 bg-transparent border-[1px] border-own-primary hover:text-white hover:translate-y-1 hover:scale-110 hover:bg-black duration-300 rounded-lg
+    }
+
+    .hero-bg-img {
+        background-position: -6% 70%;
+    }
+}
