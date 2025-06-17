@@ -319,7 +319,7 @@
     <div class="bg-reviews-bg-color padding text-white mt-[50px]">
       <h1 class="text-4xl font-bold text-center py-10">Customer <span class="text-own-primary">Reviews</span></h1>
       
-      <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4">
+      <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4 mb-40">
         
         <div class="border-2 border-black rounded-3xl hover:border-own-primary transition-all px-6 py-6">
           <h2 class="md:text-[24px] text-[20px] font-semibold">"I couldn't be happier with this Webflow template! As a small business owner with limited coding skills, I needed something that was easy to use but still looked professional - and it delivered."</h2>
@@ -350,8 +350,69 @@
 
       </div>
 
-
     </div>
+
+  <div class="md:px-20 px-8">
+    <div style="background-position: 50%" class="bg-own-primary rounded-2xl lg:p-20 p-8 translate-y-[-50px] flex flex-col items-center lg:bg-auto md:bg-cover bg-no-repeat bg-[url(https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6659dee649696d0bb3e27c7a_Background%20Shapes.svg)]">
+      <h1 class="lg:text-4xl md:text-[27px] text-[34px] text-center font-semibold text-reviews-bg-color">Rebrand your business using Duo template</h1>
+      <p class="lg:w-[70%] w-[100%] text-center lg:text-lg text-base text-white font-semibold m-6">Our template will get your business from 0 to hero in no time. Grab your users attention and convert those visitors in paying customers.</p>
+      <div class="flex md:flex-row flex-col gap-4">
+        <button class="white-btn !bg-reviews-bg-color !text-white !text-[20px] !px-8 !py-4">Preview Template</button>
+        <button class="white-btn !text-[20px] !px-8 !py-4">Learn More</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="padding">
+    <div class="grid lg:grid-cols-5 md:grid-cols-4 grid-cols-2 gap-4">
+      <div>
+        <p>© Duo Template</p>
+        <p>Crafted by <span class="underline">Toms Design</span></p>
+        <p>Powered by <span class="underline">Webflow</span></p>
+      </div>
+
+      <div>
+        <h2 class="text-lg font-semibold">Pages</h2>
+        <ul>
+          <li>Home</li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="text-lg font-semibold">Admin</h2>
+        <ul>
+          <li>Style Guide</li>
+          <li>Licensing</li>
+          <li>Change Log</li>
+          <li>Password</li>
+          <li>404</li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="text-lg font-semibold">Social</h2>
+        <ul>
+          <li>Instagram</li>
+          <li>Facebook</li>
+          <li>X</li>
+          <li>Youtube</li>
+          <li>Linkedin</li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="text-lg font-semibold">Contect</h2>
+        <ul>
+          <li>Email me</li>
+          <li>+66 6xxxxxxxx</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="padding !py-10">
+    <h1 class="text-xl font-bold text-center">Design by CHEL</h1>
+  </div>
 
   </div>
 </template>
