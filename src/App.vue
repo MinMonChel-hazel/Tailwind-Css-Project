@@ -174,9 +174,109 @@
             <button class="white-btn">Connect Integration</button>
           </div>
         </div>
+      </div>
+    </div>
 
+    <div class="padding flex md:flex-row flex-col gap-4 mt-[100px] items-center">
+      <div class="lg:w-[50%] md:w-[60%] w-[100%]">
+        <h1 class="section-heading !text-[36px]">Accelerate your business growth with Duo Template</h1>
+        <div class="lg:w-[70%] md:w-[100%] mt-14">
+          <div class="border">
+            <div class="flex gap-2">
+              <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+              <h2 class="text-xl font-semibold">Create a memorable brand</h2>
+            </div>
+            <p class="my-4 text-lg">Stand out from the competition and get your target audiences attention with using Duo template.</p>
+            <button class="outline-btn">Learn More</button>
+          </div>
+        </div>
 
+        <div class="lg:w-[70%] md:w-[100%] mt-14">
+          <div class="border">
+            <div class="flex gap-2">
+              <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+              <h2 class="text-xl font-semibold">Launch Quickly</h2>
+            </div>
+            <p class="my-4 text-lg">Duo template allows you to launch your website fast. Whether you're building a landing page, a SaaS website, or a product MVP.</p>
+            <button class="outline-btn">Learn More</button>
+          </div>
+        </div>
+  
+      </div>
 
+      <div class="lg:w-[50%] md:w-[40%] w-[100%]">
+        <img src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663a2d0080227473fe678ddd_growth-duo.svg" alt="">
+      </div>
+    </div>
+
+    <div class="padding mt-[100px]">
+      <h1 class="md:text-4xl text-3xl font-bold text-center mb-4">Choose the right Pricing Plan</h1>
+      <p class="md:text-lg text-base text-center">Our pricing plans cater to diverse needs, offering flexible options to suit your budget and requirements.</p>
+
+      <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4 mt-14">
+
+        <div class="border !bg-white">
+          <img class="w-[80px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/665af86f80a2c9f285836fc8_personal-plan-icon_1.svg" alt="">
+          <h2 class="text-[28px] font-semibold my-2">Personal</h2>
+          <p class="text-lg">Our Personal Plan offers essential features at an affordable price, without breaking the bank.</p>
+          <h1 class="text-[42px] font-bold text-own-primary mt-8">$ 35.00</h1>
+          <small class="font-medium text-gray-600">/ Per Single License</small>
+          <div class="flex gap-2 mt-10">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Basic Template Customization</p>
+          </div>
+          <div class="flex gap-2 my-3">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Limited CMS Collections</p>
+          </div>
+          <div class="flex gap-2">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Standard Hosting</p>
+          </div>
+          <button class="outline-btn my-8 !text-xl !px-6 !py-4">Get Started</button>
+        </div>
+
+        <div class="border !bg-black text-white">
+          <img class="w-[80px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/665af904a98ef7d8d2a5ad7a_commercial-plan-icon_1.svg" alt="">
+          <h2 class="text-[28px] font-semibold my-2">Commercial</h2>
+          <p class="text-lg">Designed for small to medium-sized businesses, our Commercial Plan provides advanced tool.</p>
+          <h1 class="text-[42px] font-bold text-own-primary mt-8">$ 55.00</h1>
+          <small class="font-medium text-gray-600">/ Per Single License</small>
+          <div class="flex gap-2 mt-10">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Full Template Customization</p>
+          </div>
+          <div class="flex gap-2 my-3">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Expanded CMS Collections</p>
+          </div>
+          <div class="flex gap-2">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Priority Support</p>
+          </div>
+          <button class="btn my-8 !text-xl !px-6 !py-4">Get Started</button>
+        </div>
+
+        <div class="border !bg-white">
+          <img class="w-[80px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/665affecb78fada17882908a_extended-plan-icon.svg" alt="">
+          <h2 class="text-[28px] font-semibold my-2">Extended</h2>
+          <p class="text-lg">Tailored for large enterprises and organizations, our Extended Plan offers Enterprise solutions.</p>
+          <h1 class="text-[42px] font-bold text-own-primary mt-8">$ 95.00</h1>
+          <small class="font-medium text-gray-600">/ Per Single License</small>
+          <div class="flex gap-2 mt-10">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Enterprise Hosting Features</p>
+          </div>
+          <div class="flex gap-2 my-3">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Unlimited CMS Collections</p>
+          </div>
+          <div class="flex gap-2">
+            <img class="w-[14px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663dd75610a305959e91ccb0_checkmark.svg" alt="">
+            <p>Dedicated Support Manager</p>
+          </div>
+          <button class="outline-btn my-8 !text-xl !px-6 !py-4">Get Started</button>
+        </div>
       </div>
     </div>
 
