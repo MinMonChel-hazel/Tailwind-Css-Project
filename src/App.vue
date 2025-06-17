@@ -280,6 +280,79 @@
       </div>
     </div>
 
+    <div class="padding mt-[100px] lg:flex lg:flex-row flex-col gap-8">
+
+      <div class="lg:w-[50%] w-[100%]">
+        <h1 class="md:text-[42px] text-[32px] font-semibold">Frequently Asked Questions</h1>
+        <img class="lg:w-[90%] w-[80%] mt-10" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/665aeb5025ec995f44e6c5fd_faq-section-illustration.svg" alt="">
+      </div>
+
+      <div class="lg:w-[50%] w-[90%] pt-6">
+        <div class="flex mb-8 bg-black justify-between items-center px-8 py-3 rounded-xl">
+          <h1 class="text-white md:text-2xl text-xl font-bold">Is Webflow SEO-friendly?</h1>
+          <img class="w-[30px] shrink-0" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/664f58fe42043c5d4d79a1aa_Faq%20Open%20Icon.svg" alt="">
+        </div>
+
+        <div class="flex bg-black mb-8 justify-between items-center px-8 py-3 rounded-xl">
+          <h1 class="text-white md:text-2xl text-xl font-bold">How can I ensure my site looks good on all devices?</h1>
+          <img class="w-[30px] shrink-0" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/664f58fe42043c5d4d79a1aa_Faq%20Open%20Icon.svg" alt="">
+        </div>
+
+        <div class="flex bg-black mb-8 justify-between items-center px-8 py-3 rounded-xl">
+          <h1 class="text-white md:text-2xl text-xl font-bold">What if I need to add more pages to the template?</h1>
+          <img class="w-[30px] shrink-0" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/664f58fe42043c5d4d79a1aa_Faq%20Open%20Icon.svg" alt="">
+        </div>
+
+        <div class="flex bg-black mb-8 justify-between items-center px-8 py-3 rounded-xl">
+          <h1 class="text-white md:text-2xl text-xl font-bold">How do I edit the content in a Webflow template?</h1>
+          <img class="w-[30px] shrink-0" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/664f58fe42043c5d4d79a1aa_Faq%20Open%20Icon.svg" alt="">
+        </div>
+
+        <div class="flex bg-black mb-8 justify-between items-center px-8 py-3 rounded-xl">
+          <h1 class="text-white md:text-2xl text-xl font-bold">Can I customize the Webflow template to fit my brand?</h1>
+          <img class="w-[30px] shrink-0" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/664f58fe42043c5d4d79a1aa_Faq%20Open%20Icon.svg" alt="">
+        </div>
+
+      </div>
+    </div>
+
+    <div class="bg-reviews-bg-color padding text-white mt-[50px]">
+      <h1 class="text-4xl font-bold text-center py-10">Customer <span class="text-own-primary">Reviews</span></h1>
+      
+      <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4">
+        
+        <div class="border-2 border-black rounded-3xl hover:border-own-primary transition-all px-6 py-6">
+          <h2 class="md:text-[24px] text-[20px] font-semibold">"I couldn't be happier with this Webflow template! As a small business owner with limited coding skills, I needed something that was easy to use but still looked professional - and it delivered."</h2>
+          <div class="w-[80px] my-4 border-[2px] border-own-primary rounded-full">
+            <img src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6655ff5434a9a1d841b12c9b_avatar-1.webp" alt="">
+          </div>
+          <h1 class="text-xl text-own-primary">John Doe</h1>
+          <h2 class="text-lg">CEO / Flerp Studios</h2>
+        </div>
+
+        <div class="border-2 border-black rounded-3xl hover:border-own-primary transition-all px-6 py-6">
+          <h2 class="md:text-[24px] text-[20px] font-semibold">"This Webflow template has been a game-changer happier for my portfolio site. As a freelance designer, I needed a website that showcased my work beautifully and could be easily updated."</h2>
+          <div class="w-[80px] my-4 border-[2px] border-own-primary rounded-full">
+            <img src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6655ff57a8c8e95a310bc29b_avatar-2.webp" alt="">
+          </div>
+          <h1 class="text-xl text-own-primary">Emma Frost</h1>
+          <h2 class="text-lg">Freelance Designer</h2>
+        </div>
+
+        <div class="border-2 border-black rounded-3xl hover:border-own-primary transition-all px-6 py-6">
+          <h2 class="md:text-[24px] text-[20px] font-semibold">"I was initially hesitant to use a template, but this Webflow template exceeded my expectations. The level of customization available is impressive, and the template was easy to work with."</h2>
+          <div class="w-[80px] my-4 border-[2px] border-own-primary rounded-full">
+            <img src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6655ff5b17668f713e14de89_avatar-3.webp" alt="">
+          </div>
+          <h1 class="text-xl text-own-primary">Brian Choe</h1>
+          <h2 class="text-lg">Creative Director / Trix Agency</h2>
+        </div>
+
+      </div>
+
+
+    </div>
+
   </div>
 </template>
 

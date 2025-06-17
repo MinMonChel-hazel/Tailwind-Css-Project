@@ -10,6 +10,7 @@ export default {
         'own-primary' : "#7A71EB",
         'own-secondary' : "#EEEEEE",
         'border' : '#6E6E6ED',
+        'reviews-bg-color' : '#222831'
       },
     },
   },
