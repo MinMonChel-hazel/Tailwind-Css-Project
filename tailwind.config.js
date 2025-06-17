@@ -9,7 +9,7 @@ export default {
       colors : {
         'own-primary' : "#7A71EB",
         'own-secondary' : "#EEEEEE",
-        'border' : '#6E6E6ED'
+        'border' : '#6E6E6ED',
       },
     },
   },

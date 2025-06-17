@@ -15,7 +15,27 @@
         @apply px-4 py-2 text-own-primary font-semibold transition ease-in-out delay-150 bg-transparent border-[1px] border-own-primary hover:text-white hover:translate-y-1 hover:scale-110 hover:bg-black duration-300 rounded-lg
     }
 
+    .white-btn {
+        @apply text-own-primary bg-white font-semibold hover:translate-y-1 hover:scale-110 hover:bg-own-primary hover:text-white duration-300 rounded-lg px-4 py-2
+    }
+
     .hero-bg-img {
         background-position: -6% 70%;
+    }
+
+    .border {
+        @apply border-2 border-white rounded-3xl hover:border-own-primary transition-all px-6 py-6
+    }
+
+    .borderWithNoPadding {
+        @apply border-2 border-white rounded-2xl hover:border-own-primary
+    }
+
+    .section-heading {
+        @apply text-4xl font-semibold md:w-[80%] w-[100%]
+    }
+
+    .section-description {
+        @apply lg:w-[50%] md:w-[80%] w-[100%]
     }
 }

@@ -2,7 +2,7 @@
   <div class="bg-own-secondary">
     <div class="flex justify-between items-center border-b-2 border-border xl:px-20 padding">
       <div>
-        <img class="w-[70px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6628074b71d6e1e95593d310_Logo.svg" alt="">
+        <img class="w-[80px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6628074b71d6e1e95593d310_Logo.svg" alt="">
       </div>
       <div class="flex justify-between items-center gap-6">
         <ul class="lg:flex hidden justify-between gap-6 text-lg cursor-pointer">
@@ -13,7 +13,7 @@
           <li>Reviews</li>
         </ul>
         <button class="btn lg:flex hidden">Buy Teamplate</button>
-        <svg xmlns="http://www.w3.org/2000/svg" class="lg:hidden block" width="36" height="36" viewBox="0 0 24 24"><!-- Icon from Google Material Icons by Material Design Authors - https://github.com/material-icons/material-icons/blob/master/LICENSE --><path fill="currentColor" d="M3 18h18v-2H3zm0-5h18v-2H3zm0-7v2h18V6z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" class="lg:hidden block" width="40" height="40" viewBox="0 0 24 24"><!-- Icon from Google Material Icons by Material Design Authors - https://github.com/material-icons/material-icons/blob/master/LICENSE --><path fill="currentColor" d="M3 18h18v-2H3zm0-5h18v-2H3zm0-7v2h18V6z"/></svg>
       </div>
     </div>
 
@@ -42,6 +42,141 @@
         <img src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6665ac001434b3a48f948b84_LoopMedia-Logo.svg" alt="">
         <img src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6665ac172b9167ca66cce90e_Tricole45-Logo.svg" alt="">
         <img src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6665ac32bb1cc3289b9c29a4_PlutoDelux-Logo.svg" alt="">
+      </div>
+    </div>
+
+    <div class="flex flex-col gap-4 mt-[100px] padding">
+      <h1 class="section-heading">Including Custom-made Illustrations</h1>
+      <p class="section-description">Our unique illustrations will allow you to explain concepts relevant to SaaS industry in an engaging and fun way.</p>
+      <div class="pt-10 grid md:grid-cols-3 grid-cols-1 gap-4">
+        <div class="border flex flex-col gap-3">
+          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><!-- Icon from Material Symbols Light by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="M8.385 12.308h7.23v-1h-7.23zm0 2.769h7.23v-1h-7.23zm0 2.77h4.23v-1h-4.23zM5 21V3h9.5L19 7.5V21zm9-13V4H6v16h12V8zM6 4v4zv16z"/></svg>
+          <h1 class="text-3xl font-bold">Easy Setup</h1>
+          <p class="text-lg">Get going in days not months with our template.</p>
+        </div>
+
+        <div class="border flex flex-col gap-3">
+          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><!-- Icon from Solar by 480 Design - https://creativecommons.org/licenses/by/4.0/ --><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"><path d="M12 6v12m3-8.5C15 8.12 13.657 7 12 7S9 8.12 9 9.5s1.343 2.5 3 2.5s3 1.12 3 2.5s-1.343 2.5-3 2.5s-3-1.12-3-2.5"/><path d="M7 3.338A9.95 9.95 0 0 1 12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12c0-1.821.487-3.53 1.338-5"/></g></svg>
+          <h1 class="text-3xl font-bold">Flexible Pricing</h1>
+          <p class="text-lg">Find the right pricing plan for your custom needs.</p>
+        </div>
+
+        <div class="border flex flex-col gap-3">
+          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><!-- Icon from Material Symbols by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="M12 22q-3.475-.875-5.738-3.988T4 11.1V5l8-3l8 3v6.1q0 3.8-2.262 6.913T12 22m0-2.1q2.6-.825 4.3-3.3t1.7-5.5V6.375l-6-2.25l-6 2.25V11.1q0 3.025 1.7 5.5t4.3 3.3M9 16h6v-5h-1v-1q0-.825-.587-1.412T12 8t-1.412.588T10 10v1H9zm2-5v-1q0-.425.288-.712T12 9t.713.288T13 10v1z"/></svg>
+          <h1 class="text-3xl font-bold">Secure Solution</h1>
+          <p class="text-lg">Highest security standards will provide a peace of mind.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="padding mt-[100px]">
+      <div class="flex flex-col gap-4">
+        <h1 class="section-heading">How it works</h1>
+        <p class="section-description">Learn how we pinpoint issues in your product and get you to the finish line in no time.</p>
+        <div class="pt-10 grid md:grid-cols-3 grid-cols-1 md:gap-10 gap-20">
+          <div class="flex flex-col justify-end gap-3">
+            <img class="lg:w-[80%] w-[70%] mx-auto mb-10" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6639f2ebe218fd42ecde7eea_discover-problem.svg" alt="">
+            <div class="flex flex-col gap-3">
+              <div class="bg-black text-white w-max px-2 py-1 rounded-md">Step 1</div>
+              <h2 class="text-[28px] text-own-primary font-bold">Discover the Problem</h2>
+              <p>Standing out from the competition is crucial for any Startups success. Pinpointing core issues in your business marketing and sales processes is vital for long-lasting brands.</p>
+              <button class="outline-btn lg:w-[50%] md:w-[60%] w-[40%]">Learn More</button>
+            </div>
+          </div>
+
+          <div class="flex flex-col justify-between gap-3">
+            <img class="lg:w-[80%] w-[70%] mx-auto mb-10" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6639f2c4e4e2a85572fbddf2_use-tool.svg" alt="">
+            <div class="flex flex-col gap-3">
+              <div class="bg-black text-white w-max px-2 py-1 rounded-md">Step 2</div>
+              <h2 class="text-[28px] text-own-primary font-bold">Use the Template</h2>
+              <p>Duo Webflow template is made in modern and bold style, and optimised for responsive devices. It's flexible to use and includes a style guide that allows for consistent brand image.</p>
+              <button class="outline-btn lg:w-[50%] md:w-[60%] w-[40%]">Learn More</button>
+            </div>
+          </div>
+
+          <div class="flex flex-col justify-between gap-3">
+            <img class="lg:w-[80%] w-[70%] mx-auto mb-10" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/6639f5633925057c8fcbaf99_enjoy-results.svg" alt="">
+            <div class="flex flex-col gap-3">
+              <div class="bg-black text-white w-max px-2 py-1 rounded-md">Step 3</div>
+              <h2 class="text-[28px] text-own-primary font-bold">Enjoy results</h2>
+              <p>With our Startup Landing Page Template you will be able to see your sales sky rocket. Get noticed with your audience and create an everlasting brand image that lasts.</p>
+              <button class="outline-btn lg:w-[50%] md:w-[60%] w-[40%]">Learn More</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="padding mt-[100px]">
+      <h1 class="section-heading">Integrations</h1>
+      <p class="section-description py-4">The integrations section showcases how our software seamlessly connects with other tools, enhancing functionality and streamlining workflows for maximum efficiency.</p>
+      <button class="btn">Request a Demo</button>
+      
+      <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-10 mt-16">
+        
+        <div class="borderWithNoPadding relative">
+          <div class="px-6 py-6">
+            <img class="w-[150px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663ce3ad150cd4ef7c4a1b34_SynthoSphere-logo.svg" alt="">
+            <p class="text-[16px] pt-4 pb-32">Elevate your business with our cloud-based solutions for seamless collaboration.</p>
+          </div>
+          <div class="bg-black p-6 rounded-bl-xl rounded-br-xl absolute bottom-0 w-full">
+            <button class="white-btn">Connect Integration</button>
+          </div>
+        </div>
+
+        <div class="borderWithNoPadding relative">
+          <div class="px-6 py-6">
+            <img class="w-[150px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663c9e10f72e7f086d44abf4_Streamline-logo.svg" alt="">
+            <p class="text-[16px] pt-4 pb-32">Harness the power of data with our cutting-edge tools for analysis and insight generation.</p>
+          </div>
+          <div class="bg-black p-6 rounded-bl-xl rounded-br-xl absolute bottom-0 w-full">
+            <button class="white-btn">Connect Integration</button>
+          </div>
+        </div>
+
+        <div class="borderWithNoPadding relative">
+          <div class="px-6 py-6">
+            <img class="w-[150px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663ce3d9adb4b12431ea60d6_PolarStarHQ-logo.svg" alt="">
+            <p class="text-[16px] pt-4 pb-32">Optimize your operations effortlessly with our intelligent workflow management platform.</p>
+          </div>
+          <div class="bg-black p-6 rounded-bl-xl rounded-br-xl absolute bottom-0 w-full">
+            <button class="white-btn">Connect Integration</button>
+          </div>
+        </div>
+
+        <div class="borderWithNoPadding relative">
+          <div class="px-6 py-6">
+            <img class="w-[150px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663c9e0a2867460c73781e9e_Nexus-Wave.svg" alt="">
+            <p class="text-[16px] pt-4 pb-32">Stay in sync with real-time updates and insights for agile decision-making on the go.</p>
+          </div>
+          <div class="bg-black p-6 rounded-bl-xl rounded-br-xl absolute bottom-0 w-full">
+            <button class="white-btn">Connect Integration</button>
+          </div>
+        </div>
+
+        <div class="borderWithNoPadding relative">
+          <div class="px-6 py-6">
+            <img class="w-[150px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663ce411afd8c3befbd35c32_Cloudbloom-logo.svg" alt="">
+            <p class="text-[16px] pt-4 pb-32">Transform raw data into actionable intelligence with our advanced synthesis technology.</p>
+          </div>
+          <div class="bg-black p-6 rounded-bl-xl rounded-br-xl absolute bottom-0 w-full">
+            <button class="white-btn">Connect Integration</button>
+          </div>
+        </div>
+
+        <div class="borderWithNoPadding relative">
+          <div class="px-6 py-6">
+            <img class="w-[150px]" src="https://cdn.prod.website-files.com/6627e9a3eba2a9009dbdeffe/663ce3f9f342d2fe79c01387_Soucer-pass-logo.svg" alt="">
+            <p class="text-[16px] pt-4 pb-32">Simplify complex processes and boost productivity with our intuitive automation software.</p>
+          </div>
+          <div class="bg-black p-6 rounded-bl-xl rounded-br-xl absolute bottom-0 w-full">
+            <button class="white-btn">Connect Integration</button>
+          </div>
+        </div>
+
+
+
       </div>
     </div>
 
